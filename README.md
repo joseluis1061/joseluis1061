@@ -30,6 +30,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h3> :handbag: Major projects demo</h3>
+
 - https://laveterinaria.netlify.app/
 - https://bright-haupia-473906.netlify.app/
 - https://yard-sale-next-js.vercel.app/
