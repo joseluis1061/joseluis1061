@@ -46,7 +46,8 @@
   <a href="https://github.com/joseluis1061">
     <img align="left" alt="Ajay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <br />
+<br />
+<br />
 
 - Telegram: https://t.me/JoseLuisZuniga1 
 - Linkedin: https://www.linkedin.com/in/joseluis-zuniga/
