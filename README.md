@@ -1,7 +1,5 @@
 ### Hi, I'm Jose Luis Zúñiga 👋
 
-<img width="35%" align="right" alt="Github" src="https://github.com/joseluis1061/PortafolioJose/blob/main/src/assets/img/imagenFondoAmarillo.png" />
-
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies for developing software solutions.
